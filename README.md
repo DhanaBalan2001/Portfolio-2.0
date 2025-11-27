@@ -59,10 +59,15 @@
 
 ```
 🚀 Lighthouse Score: 98/100
+
 ⚡ First Paint: 0.8s
+
 🎨 Animation FPS: 60fps
+
 📱 Mobile Optimized: ✅
+
 🔥 Bundle Size: <2MB
+
 ```
 
 </div>
@@ -219,9 +224,13 @@ npm run build
 
 ```
 🎯 Specialization: Frontend Magic & GSAP Animations
+
 🏆 Achievement: Portfolio 2.0 Master
+
 ⚡ Focus: Performance + User Experience
+
 🎮 Innovation: Gaming-Inspired Web Interactions
+
 ```
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge)](https://mypersonalwebsite-dhanabalank.netlify.app/)
