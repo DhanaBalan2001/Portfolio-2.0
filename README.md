@@ -1,195 +1,109 @@
 <div align="center">
 
-# 🚀 **PORTFOLIO 2.0** - *Next-Gen Web Experience*
+# 🌟 **PORTFOLIO 2.0** 🌟
+### *Interactive Web Experience with GSAP Magic*
 
-```
-██████╗  ██████╗ ██████╗ ████████╗███████╗ ██████╗ ██╗     ██╗ ██████╗     ██████╗   ██████╗ 
-██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝██╔═══██╗██║     ██║██╔═══██╗    ╚════██╗ ██╔═████╗
-██████╔╝██║   ██║██████╔╝   ██║   █████╗  ██║   ██║██║     ██║██║   ██║     █████╔╝  ██║██╔██║
-██╔═══╝ ██║   ██║██╔══██╗   ██║   ██╔══╝  ██║   ██║██║     ██║██║   ██║    ██╔═══╝   ████╔╝██║
-██║     ╚██████╔╝██║  ██║   ██║   ██║     ╚██████╔╝███████╗██║╚██████╔╝    ███████╗  ╚██████╔╝
-╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝      ╚═════╝ ╚══════╝╚═╝ ╚═════╝     ╚══════╝   ╚═════╝ 
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+Portfolio+2.0;Next-Gen+Web+Experience;Built+with+React+%26+GSAP;Cinematic+Animations;Interactive+UI+Elements" alt="Typing SVG" />
 
-### *Immersive • Interactive • Innovative*
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://mypersonalwebsite-dhanabalank.netlify.app/)
+[![GitHub](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhanaBalan2001)
+[![LinkedIn](https://img.shields.io/badge/👨💻_DEVELOPER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhana-balan-k)
 
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://mypersonalwebsite-dhanabalank.netlify.app/)
-[![Source Code](https://img.shields.io/badge/📂_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhanaBalan2001)
-[![Developer](https://img.shields.io/badge/👨💻_DEVELOPER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhana-balan-k)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 
 ---
 
-## 🎯 **SYSTEM OVERVIEW**
+## 🎯 **WHAT MAKES THIS SPECIAL?**
 
-**Portfolio 2.0** is a cutting-edge web application engineered with **React 18** and **GSAP 3.12**, delivering cinematic animations and immersive user experiences. Built with performance-first architecture and mobile-responsive design patterns.
+<div align="center">
 
-### 📊 **Performance Metrics**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### **🎬 CINEMATIC EXPERIENCE**
+*Hulu-inspired intro animations that captivate from first load*
+
+### **🎮 GAMING-INSPIRED INTERACTIONS** 
+*Magnetic buttons, particle explosions, and smooth transitions*
+
+### **📱 MOBILE-FIRST DESIGN**
+*Optimized animations for every device and screen size*
+
+</div>
+
+---
+
+## 🛠️ **TECH STACK**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4dd9-8c96-93a8a1ed8d21.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
+| Technology | Version | Purpose |
+|------------|---------|---------|
+| **React** | 18.2.0 | Component Architecture |
+| **GSAP** | 3.12.2 | Professional Animations |
+| **JavaScript** | ES6+ | Interactive Logic |
+| **CSS3** | Modern | Responsive Styling |
+
+</div>
+
+---
+
+## ⚡ **PERFORMANCE METRICS**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DhanaBalan2001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FF6B6B&text_color=FFFFFF" width="400">
 
 ```
-┌───────────────────────────────────────────────────────────────┐
-│                    🚀 SYSTEM PERFORMANCE                     │
-├───────────────────────────────────────────────────────────────┤
-│  Lighthouse Score    │  98/100  │  ⚡ Optimized Bundle      │
-│  First Paint         │  0.8s    │  🎨 GPU Acceleration     │
-│  Interactive         │  1.2s    │  📱 Mobile First         │
-│  Animation FPS       │  60fps   │  🔄 Lazy Loading         │
-│  Bundle Size         │  <2MB    │  ⚡ Code Splitting       │
-└───────────────────────────────────────────────────────────────┘
+🚀 Lighthouse Score: 98/100
+⚡ First Paint: 0.8s
+🎨 Animation FPS: 60fps
+📱 Mobile Optimized: ✅
+🔥 Bundle Size: <2MB
 ```
 
 </div>
 
 ---
 
-## 🏗️ **TECHNICAL ARCHITECTURE**
+## 🎨 **ANIMATION SHOWCASE**
 
 <div align="center">
 
-### **Core Technology Stack**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-      <strong>React 18.2.0</strong><br>
-      <em>Component Architecture</em>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /><br>
-      <strong>GSAP 3.12.2</strong><br>
-      <em>Animation Engine</em>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <strong>ES6+ JavaScript</strong><br>
-      <em>Core Logic</em>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <strong>Modern CSS</strong><br>
-      <em>Responsive Design</em>
-    </td>
-  </tr>
-</table>
-
-### **Advanced Features Implementation**
+### **🎪 SIGNATURE ANIMATIONS**
 
 ```javascript
-// 🎬 Cinematic Animation System
-const animationEngine = {
-  intro: {
-    type: 'HuluIntro',
-    duration: '2.5s',
-    easing: 'power3.out',
-    triggers: ['pageLoad', 'firstVisit']
-  },
-  scrollTrigger: {
-    library: 'GSAP ScrollTrigger',
-    performance: 'GPU-accelerated',
-    refresh: 'dynamic',
-    markers: false
-  },
-  interactions: {
-    magnetic: 'Mouse proximity detection',
-    particles: 'Dynamic generation on click',
-    morphing: 'CSS transform + GSAP timeline',
-    transitions: 'React Router + GSAP'
-  }
-};
-```
+// 🎬 Cinematic Hero Entrance
+gsap.timeline()
+  .fromTo('.hero-title', 
+    { y: 100, opacity: 0 },
+    { y: 0, opacity: 1, duration: 1, stagger: 0.2 }
+  )
+  .fromTo('.hero-subtitle',
+    { y: 50, opacity: 0 },
+    { y: 0, opacity: 1, duration: 0.8 }
+  );
 
-</div>
+// 🎯 Magnetic Button Effect
+element.addEventListener('mousemove', (e) => {
+  const x = (e.clientX - rect.left - rect.width / 2) * 0.3;
+  const y = (e.clientY - rect.top - rect.height / 2) * 0.3;
+  gsap.to(element, { x, y, duration: 0.3 });
+});
 
----
-
-## 🎨 **ANIMATION FRAMEWORK**
-
-<div align="center">
-
-### **Multi-Layer Animation System**
-
-<table>
-  <thead>
-    <tr>
-      <th width="20%">Layer</th>
-      <th width="30%">Implementation</th>
-      <th width="25%">Performance</th>
-      <th width="25%">Optimization</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>🎬 Intro</strong></td>
-      <td>Timeline-based reveal</td>
-      <td>60fps stable</td>
-      <td>Hardware accelerated</td>
-    </tr>
-    <tr>
-      <td><strong>🌊 Scroll</strong></td>
-      <td>ScrollTrigger API</td>
-      <td>Throttled events</td>
-      <td>Intersection Observer</td>
-    </tr>
-    <tr>
-      <td><strong>🎯 Hover</strong></td>
-      <td>Magnetic field effect</td>
-      <td>Transform3d</td>
-      <td>GPU compositing</td>
-    </tr>
-    <tr>
-      <td><strong>⚡ Click</strong></td>
-      <td>Particle system</td>
-      <td>Canvas rendering</td>
-      <td>Object pooling</td>
-    </tr>
-    <tr>
-      <td><strong>🎨 Transition</strong></td>
-      <td>Page morphing</td>
-      <td>CSS transforms</td>
-      <td>Will-change property</td>
-    </tr>
-  </tbody>
-</table>
-
-### **Animation Code Architecture**
-
-```javascript
-// 🎪 Advanced Animation Patterns
-class AnimationController {
-  constructor() {
-    this.timeline = gsap.timeline();
-    this.scrollTriggers = [];
-    this.interactiveElements = new Map();
-  }
-
-  // 🎬 Cinematic entrance sequence
-  initHeroAnimation() {
-    return this.timeline
-      .fromTo('.hero-title', 
-        { y: 100, opacity: 0 },
-        { y: 0, opacity: 1, duration: 1, stagger: 0.2 }
-      )
-      .fromTo('.hero-subtitle',
-        { y: 50, opacity: 0 },
-        { y: 0, opacity: 1, duration: 0.8 },
-        '-=0.5'
-      );
-  }
-
-  // 🎯 Magnetic interaction system
-  createMagneticEffect(element, strength = 0.3) {
-    element.addEventListener('mousemove', (e) => {
-      const { left, top, width, height } = element.getBoundingClientRect();
-      const x = (e.clientX - left - width / 2) * strength;
-      const y = (e.clientY - top - height / 2) * strength;
-      
-      gsap.to(element, {
-        x, y,
-        duration: 0.3,
-        ease: 'power2.out'
-      });
-    });
-  }
+// ✨ Particle Explosion System
+for (let i = 0; i < 12; i++) {
+  gsap.to(particle, {
+    x: (Math.random() - 0.5) * 100,
+    y: (Math.random() - 0.5) * 100,
+    opacity: 0,
+    duration: 0.8
+  });
 }
 ```
 
@@ -197,346 +111,142 @@ class AnimationController {
 
 ---
 
-## 📱 **RESPONSIVE ENGINEERING**
+## 🚀 **FEATURES**
 
 <div align="center">
 
-### **Adaptive Design System**
-
-```css
-/* 🎨 Advanced Responsive Architecture */
-.portfolio-container {
-  /* Fluid typography */
-  font-size: clamp(0.875rem, 2.5vw, 1.125rem);
-  
-  /* Dynamic spacing */
-  padding: clamp(1rem, 5vw, 3rem);
-  
-  /* Flexible layouts */
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: clamp(1rem, 3vw, 2rem);
-}
-
-/* 📱 Mobile-first animations */
-@media (max-width: 768px) {
-  .hero-animation {
-    transform: scale(0.8);
-    animation-duration: 1.5s; /* Faster on mobile */
-  }
-}
-
-/* 💻 Desktop enhancements */
-@media (min-width: 1024px) {
-  .interactive-element {
-    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  }
-  
-  .interactive-element:hover {
-    transform: translateY(-8px) scale(1.02);
-  }
-}
-```
-
-### **Performance Optimization Strategy**
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <strong>🚀 Loading</strong><br>
-      • Code splitting<br>
-      • Lazy loading<br>
-      • Image optimization<br>
-      • Bundle analysis
-    </td>
-    <td width="33%" align="center">
-      <strong>🎨 Rendering</strong><br>
-      • GPU acceleration<br>
-      • Transform3d usage<br>
-      • Will-change property<br>
-      • Composite layers
-    </td>
-    <td width="33%" align="center">
-      <strong>📱 Mobile</strong><br>
-      • Touch optimization<br>
-      • Reduced animations<br>
-      • Viewport handling<br>
-      • Battery efficiency
-    </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
 </div>
 
+### **🎬 Cinematic Loading**
+- Hulu-inspired intro sequence
+- Mobile-optimized loader
+- Smooth page transitions
+
+### **🎮 Interactive Elements**
+- Magnetic button effects
+- Particle explosion system
+- 3D card transformations
+- Progressive reveal animations
+
+### **📱 Responsive Design**
+- Mobile-first approach
+- Touch-optimized interactions
+- Adaptive animation system
+- Cross-device compatibility
+
+### **⚡ Performance Optimized**
+- 60fps smooth animations
+- GPU acceleration
+- Code splitting
+- Lazy loading
+
 ---
 
-## 🔧 **DEVELOPMENT WORKFLOW**
+## 🏗️ **PROJECT STRUCTURE**
 
 <div align="center">
 
-### **Build & Deployment Pipeline**
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
-```bash
-# 🛠️ Development Environment Setup
-git clone https://github.com/DhanaBalan2001/modern-portfolio.git
-cd modern-portfolio
-npm install
-
-# 🚀 Development Server (Hot Reload)
-npm start
-# → Runs on http://localhost:3000
-# → Live reload enabled
-# → DevTools integration
-
-# 🏗️ Production Build
-npm run build
-# → Optimized bundle
-# → Asset compression
-# → Performance analysis
-
-# 📊 Bundle Analysis
-npm run analyze
-# → Webpack bundle analyzer
-# → Dependency visualization
-# → Size optimization insights
-```
-
-### **Project Structure**
+</div>
 
 ```
 modern-portfolio/
-├── 📁 public/
-│   ├── 🖼️ images/           # Optimized assets
-│   └── 📄 index.html        # Entry point
-├── 📁 src/
-│   ├── 📁 components/       # Reusable UI components
-│   │   ├── 🎬 HuluIntro.js   # Cinematic loader
-│   │   ├── 📱 MobileLoader.js # Mobile-optimized loader
-│   │   ├── 🧭 Navbar.js      # Navigation component
-│   │   ├── 🦸 Hero.js        # Hero section
-│   │   ├── 👨💻 About.js       # About section
-│   │   ├── ⚡ Skills.js      # Skills showcase
-│   │   ├── 🚀 Projects.js    # Project gallery
-│   │   └── 📞 Contact.js     # Contact form
-│   ├── 📁 pages/            # Route components
-│   ├── 🎨 index.css         # Global styles
-│   ├── 📱 responsive.css    # Responsive utilities
-│   └── 🎮 App.js           # Main application
-└── 📦 package.json         # Dependencies
+├── 🎬 HuluIntro.js      # Cinematic loader
+├── 📱 MobileLoader.js   # Mobile animations
+├── 🦸 Hero.js           # Hero section
+├── 👨💻 About.js         # About section
+├── ⚡ Skills.js         # Skills showcase
+├── 🚀 Projects.js       # Project gallery
+├── 📞 Contact.js        # Contact form
+└── 🎨 Animations/       # GSAP magic
 ```
+
+---
+
+## 🎯 **QUICK START**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3f1c2d0d2c7a.gif" width="300">
+
+</div>
+
+```bash
+# 🚀 Clone the repository
+git clone https://github.com/DhanaBalan2001/modern-portfolio.git
+
+# 📦 Install dependencies
+npm install
+
+# 🎮 Start development server
+npm start
+
+# 🏗️ Build for production
+npm run build
+```
+
+---
+
+## 🎪 **ANIMATION LAYERS**
+
+<div align="center">
+
+| Layer | Effect | Performance |
+|-------|--------|-------------|
+| 🎬 **Intro** | Cinematic reveal | 60fps |
+| 🌊 **Scroll** | Progressive disclosure | Optimized |
+| 🎯 **Hover** | Magnetic attraction | GPU accelerated |
+| ⚡ **Click** | Particle explosions | Hardware powered |
+| 🎨 **Transition** | Page morphing | Seamless |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c38-9d33-a7b4b3d0b4b5.gif" width="500">
 
 </div>
 
 ---
 
-## 🎯 **FEATURE DEEP DIVE**
+## 👨💻 **DEVELOPER**
 
 <div align="center">
 
-### **🎬 Cinematic Loading Experience**
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
+
+### **🚀 DHANA BALAN K**
+*Full Stack Developer & Animation Enthusiast*
+
+```
+🎯 Specialization: Frontend Magic & GSAP Animations
+🏆 Achievement: Portfolio 2.0 Master
+⚡ Focus: Performance + User Experience
+🎮 Innovation: Gaming-Inspired Web Interactions
+```
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge)](https://mypersonalwebsite-dhanabalank.netlify.app/)
+[![GitHub](https://img.shields.io/badge/📂_GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/DhanaBalan2001)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhana-balan-k)
+
+</div>
+
+---
+
+## 🔮 **FUTURE UPDATES**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284103-29e8e7c5-4c95-4c2d-8b4a-4e7c8b4b3e3a.gif" width="400">
+
+### **Version 3.0 Coming Soon**
 
 ```javascript
-// HuluIntro.js - Advanced Loading Animation
-const HuluIntro = ({ onComplete }) => {
-  useEffect(() => {
-    const tl = gsap.timeline({
-      onComplete: () => {
-        setTimeout(onComplete, 500);
-      }
-    });
-
-    // Multi-stage reveal animation
-    tl.to('.intro-bg', {
-        scale: 1.1,
-        duration: 2,
-        ease: 'power2.inOut'
-      })
-      .to('.intro-text', {
-        opacity: 1,
-        y: 0,
-        duration: 1,
-        stagger: 0.2
-      }, '-=1.5')
-      .to('.intro-progress', {
-        width: '100%',
-        duration: 1.5,
-        ease: 'power2.out'
-      }, '-=1');
-  }, []);
-};
-```
-
-### **🎯 Interactive Button System**
-
-```javascript
-// Magnetic button with particle effects
-const MagneticButton = ({ children, onClick }) => {
-  const buttonRef = useRef();
-  
-  const handleMouseMove = (e) => {
-    const { left, top, width, height } = buttonRef.current.getBoundingClientRect();
-    const x = (e.clientX - left - width / 2) * 0.3;
-    const y = (e.clientY - top - height / 2) * 0.3;
-    
-    gsap.to(buttonRef.current, {
-      x, y,
-      duration: 0.3,
-      ease: 'power2.out'
-    });
-  };
-  
-  const createParticles = () => {
-    for (let i = 0; i < 12; i++) {
-      const particle = document.createElement('div');
-      particle.className = 'particle';
-      buttonRef.current.appendChild(particle);
-      
-      gsap.to(particle, {
-        x: (Math.random() - 0.5) * 100,
-        y: (Math.random() - 0.5) * 100,
-        opacity: 0,
-        scale: 0,
-        duration: 0.8,
-        ease: 'power2.out',
-        onComplete: () => particle.remove()
-      });
-    }
-  };
-};
-```
-
-</div>
-
----
-
-## 🚀 **PERFORMANCE ANALYSIS**
-
-<div align="center">
-
-### **Lighthouse Audit Results**
-
-<table>
-  <thead>
-    <tr>
-      <th>Metric</th>
-      <th>Score</th>
-      <th>Value</th>
-      <th>Optimization</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🚀 Performance</td>
-      <td><strong>98/100</strong></td>
-      <td>0.8s FCP</td>
-      <td>Code splitting, lazy loading</td>
-    </tr>
-    <tr>
-      <td>♿ Accessibility</td>
-      <td><strong>95/100</strong></td>
-      <td>WCAG 2.1</td>
-      <td>Semantic HTML, ARIA labels</td>
-    </tr>
-    <tr>
-      <td>🎯 Best Practices</td>
-      <td><strong>100/100</strong></td>
-      <td>Modern APIs</td>
-      <td>HTTPS, no console errors</td>
-    </tr>
-    <tr>
-      <td>🔍 SEO</td>
-      <td><strong>92/100</strong></td>
-      <td>Meta tags</td>
-      <td>Structured data, sitemap</td>
-    </tr>
-  </tbody>
-</table>
-
-### **Bundle Analysis**
-
-```
-📦 PRODUCTION BUNDLE
-├── 📄 main.js         │ 245KB │ React + GSAP core
-├── 🎨 main.css        │  45KB │ Optimized styles
-├── 🖼️ assets/         │ 180KB │ Compressed images
-└── 📁 chunks/         │  85KB │ Code-split modules
-                       ├──────┤
-                       │ 555KB │ Total (gzipped: 185KB)
-```
-
-</div>
-
----
-
-## 👨💻 **DEVELOPER PROFILE**
-
-<div align="center">
-
-```
-╭───────────────────────────────────────────────────────────╮
-│                    🚀 DHANA BALAN K                        │
-├───────────────────────────────────────────────────────────┤
-│  🎯 Role           │ Full Stack Developer                   │
-│  ⚡ Specialization │ Frontend Architecture & Animations    │
-│  🏆 Achievement    │ Portfolio 2.0 - Next-Gen Experience   │
-│  🌟 Focus          │ Performance + User Experience         │
-│  🎮 Innovation     │ Gaming-Inspired Web Interactions      │
-╰───────────────────────────────────────────────────────────╯
-```
-
-### **Connect & Collaborate**
-
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://mypersonalwebsite-dhanabalank.netlify.app/)
-[![GitHub](https://img.shields.io/badge/📂_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhanaBalan2001)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhana-balan-k)
-
-</div>
-
----
-
-## 🔮 **FUTURE ROADMAP**
-
-<div align="center">
-
-### **Version 3.0 - Advanced Features**
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>🎨 Visual Enhancements</strong><br>
-      • WebGL 3D animations<br>
-      • Advanced particle systems<br>
-      • Real-time shader effects<br>
-      • Interactive 3D models
-    </td>
-    <td width="50%">
-      <strong>🚀 Technical Upgrades</strong><br>
-      • Web Workers for animations<br>
-      • PWA capabilities<br>
-      • AI-powered interactions<br>
-      • Voice navigation
-    </td>
-  </tr>
-</table>
-
-```javascript
-// 🔮 Future Implementation Preview
-const portfolioV3 = {
-  rendering: {
-    engine: 'Three.js + React Three Fiber',
-    shaders: 'Custom GLSL shaders',
-    performance: 'WebGL 2.0 + WebAssembly'
-  },
-  ai: {
-    chatbot: 'GPT-powered assistant',
-    recommendations: 'ML-based content',
-    analytics: 'Behavioral prediction'
-  },
-  immersive: {
-    vr: 'WebXR compatibility',
-    ar: 'Camera-based interactions',
-    spatial: '3D navigation system'
-  }
+const futureFeatures = {
+  webgl: "3D animations with Three.js",
+  ai: "GPT-powered interactions",
+  vr: "WebXR compatibility",
+  sound: "Interactive audio design",
+  ml: "Behavioral predictions"
 };
 ```
 
@@ -546,16 +256,14 @@ const portfolioV3 = {
 
 <div align="center">
 
-## 🎯 **CONCLUSION**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-**Portfolio 2.0** represents the pinnacle of modern web development - where **performance meets artistry**, **technology serves creativity**, and **every interaction tells a story**.
+## 🎉 **THANK YOU FOR VISITING!**
 
-*Built with passion • Optimized for performance • Designed for the future*
+### *If this project inspired you, don't forget to ⭐ star it!*
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
-**⭐ Star this repository if it inspired your next project! ⭐**
-
-*© 2024 Dhana Balan K - Crafted with React, GSAP, and endless creativity*
+*Built with 💜 using React, GSAP, and endless creativity*
 
 </div>
