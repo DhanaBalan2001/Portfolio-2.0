@@ -1,0 +1,45 @@
+@media (max-width: 768px) {
+  /* Force navbar to stay centered in mobile with highest specificity */
+  nav.glass[style] {
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    margin-left: 0 !important;
+    right: auto !important;
+    z-index: 9999 !important;
+  }
+  
+  /* Fix navbar positioning specifically when Skills section is present */
+  section[style*="position: relative"] ~ nav.glass,
+  section[style*="position: relative"] + nav.glass {
+    position: fixed !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+  }
+  
+  /* Remove circular background from nav icons only */
+  .nav-icon {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+  
+  /* Projects page title adjustment */
+  .projects-section h2 {
+    padding-top: 2rem !important;
+  }
+  
+  /* Skills page title adjustment */
+  .skills-section h2 {
+    padding-top: 2rem !important;
+  }
+  
+  /* Contact page title adjustment */
+  .contact-section h2 {
+    padding-top: 2rem !important;
+  }
+  
+  /* Certifications page title adjustment */
+  .certifications-section h2 {
+    padding-top: 2rem !important;
+  }
+}
