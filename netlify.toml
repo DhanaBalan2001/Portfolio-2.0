@@ -2,6 +2,20 @@
   publish = "build"
   command = "npm run build"
 
+# Serve PDF files directly
+[[redirects]]
+  from = "/Resume.pdf"
+  to = "/Resume.pdf"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/images/*.pdf"
+  to = "/images/:splat.pdf"
+  status = 200
+  force = true
+
+# Catch-all for SPA routing (must be last)
 [[redirects]]
   from = "/*"
   to = "/index.html"
@@ -28,4 +42,16 @@
 [[headers]]
   for = "/images/*"
   [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/*.pdf"
+  [headers.values]
+    Content-Type = "application/pdf"
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/images/*.pdf"
+  [headers.values]
+    Content-Type = "application/pdf"
     Cache-Control = "public, max-age=31536000"
