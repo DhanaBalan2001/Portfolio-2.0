@@ -1,6 +1,6 @@
 # Serve PDF files directly
-/Resume.pdf    /Resume.pdf   200!
-/images/*.pdf    /images/:splat.pdf   200!
+/Resume.pdf    /Resume.pdf   200
+/images/*    /images/:splat   200
 
 # Catch-all for SPA routing (must be last)
 /*    /index.html   200
