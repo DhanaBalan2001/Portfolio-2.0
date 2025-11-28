@@ -21,13 +21,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### **🎬 CINEMATIC EXPERIENCE**
+
 *Hulu-inspired intro animations that captivate from first load*
 
-### **🎮 GAMING-INSPIRED INTERACTIONS** 
 *Magnetic buttons, particle explosions, and smooth transitions*
 
-### **📱 MOBILE-FIRST DESIGN**
 *Optimized animations for every device and screen size*
 
 </div>
@@ -86,39 +84,6 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-
-### **🎪 SIGNATURE ANIMATIONS**
-
-```javascript
-// 🎬 Cinematic Hero Entrance
-gsap.timeline()
-  .fromTo('.hero-title', 
-    { y: 100, opacity: 0 },
-    { y: 0, opacity: 1, duration: 1, stagger: 0.2 }
-  )
-  .fromTo('.hero-subtitle',
-    { y: 50, opacity: 0 },
-    { y: 0, opacity: 1, duration: 0.8 }
-  );
-
-// 🎯 Magnetic Button Effect
-element.addEventListener('mousemove', (e) => {
-  const x = (e.clientX - rect.left - rect.width / 2) * 0.3;
-  const y = (e.clientY - rect.top - rect.height / 2) * 0.3;
-  gsap.to(element, { x, y, duration: 0.3 });
-});
-
-// ✨ Particle Explosion System
-for (let i = 0; i < 12; i++) {
-  gsap.to(particle, {
-    x: (Math.random() - 0.5) * 100,
-    y: (Math.random() - 0.5) * 100,
-    opacity: 0,
-    duration: 0.8
-  });
-}
-```
-
 </div>
 
 ---
@@ -219,8 +184,6 @@ npm run build
 </div>
 <<<<<<< HEAD
 
----
-
 ## 👨💻 **DEVELOPER**
 
 <div align="center">
@@ -231,103 +194,19 @@ npm run build
 *Full Stack Developer & Animation Enthusiast*
 
 ```
-🎯 Specialization: Frontend Magic & GSAP Animations
-🏆 Achievement: Portfolio 2.0 Master
-⚡ Focus: Performance + User Experience
-🎮 Innovation: Gaming-Inspired Web Interactions
-```
+🎯  Specialization :  Frontend Magic & GSAP Animations
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge)](https://mypersonalwebsite-dhanabalank.netlify.app/)
-[![GitHub](https://img.shields.io/badge/📂_GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/DhanaBalan2001)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhana-balan-k)
+🏆  Achievement    : Portfolio 2.0 Master
 
-</div>
+⚡  Focus          : Performance + User Experience
 
----
-
-## 🔮 **FUTURE UPDATES**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284103-29e8e7c5-4c95-4c2d-8b4a-4e7c8b4b3e3a.gif" width="400">
-
-### **Version 3.0 Coming Soon**
-
-```javascript
-const futureFeatures = {
-  webgl: "3D animations with Three.js",
-  ai: "GPT-powered interactions",
-  vr: "WebXR compatibility",
-  sound: "Interactive audio design",
-  ml: "Behavioral predictions"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🎉 **THANK YOU FOR VISITING!**
-
-### *If this project inspired you, don't forget to ⭐ star it!*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-*Built with 💜 using React, GSAP, and endless creativity*
-=======
->>>>>>> 8939b09c4a8d7b9444f76c34bf9223b56b3ce388
-
----
-
-## 👨💻 **DEVELOPER**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-
-### **🚀 DHANA BALAN K**
-*Full Stack Developer & Animation Enthusiast*
-
-```
-🎯 Specialization: Frontend Magic & GSAP Animations
-
-🏆 Achievement: Portfolio 2.0 Master
-
-⚡ Focus: Performance + User Experience
-
-🎮 Innovation: Gaming-Inspired Web Interactions
+🎮  Innovation     : Gaming-Inspired Web Interactions
 
 ```
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge)](https://mypersonalwebsite-dhanabalank.netlify.app/)
 [![GitHub](https://img.shields.io/badge/📂_GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/DhanaBalan2001)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhana-balan-k)
-
-</div>
-
----
-
-## 🔮 **FUTURE UPDATES**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284103-29e8e7c5-4c95-4c2d-8b4a-4e7c8b4b3e3a.gif" width="400">
-
-### **Version 3.0 Coming Soon**
-
-```javascript
-const futureFeatures = {
-  webgl: "3D animations with Three.js",
-  ai: "GPT-powered interactions",
-  vr: "WebXR compatibility",
-  sound: "Interactive audio design",
-  ml: "Behavioral predictions"
-};
-```
 
 </div>
 
