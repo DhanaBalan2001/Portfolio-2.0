@@ -13,7 +13,7 @@
 
 
 
-## 🎯 **WHAT MAKES THIS SPECIAL?**
+### 🎯 **WHAT MAKES THIS SPECIAL?**
 
 <div align="center">
 
@@ -55,16 +55,6 @@
 </tr>
 </table>
 
-
-</div>
-
-
-
-## 🎨 **ANIMATION SHOWCASE**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 
 </div>
 
@@ -125,7 +115,7 @@ modern-portfolio/
 └── 🎨 Animations/       # GSAP magic
 ```
 
----
+
 
 ## 🎯 **QUICK START**
 
@@ -149,11 +139,14 @@ npm start
 npm run build
 ```
 
----
 
-## 🎪 **ANIMATION LAYERS**
+
+### 🎪 **ANIMATION LAYERS**
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+
 
 | Layer | Effect | Performance |
 |-------|--------|-------------|
@@ -166,9 +159,9 @@ npm run build
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c38-9d33-a7b4b3d0b4b5.gif" width="500">
 
 </div>
-<<<<<<< HEAD
 
-## 👨💻 **DEVELOPER**
+
+### 👨💻 **DEVELOPER**
 
 
 <div align="center">
@@ -179,17 +172,6 @@ npm run build
 
 *Full Stack Developer & Animation Enthusiast*
 
----
-
-🎯  Specialization :  Frontend Magic & GSAP Animations
-
-🏆  Achievement    :  Portfolio 2.0 Master
-
-⚡  Focus          :  Performance + User Experience
-
-🎮  Innovation     :  Gaming-Inspired Web Interactions
-
----
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge)](https://mypersonalwebsite-dhanabalank.netlify.app/)
 [![GitHub](https://img.shields.io/badge/📂_GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/DhanaBalan2001)
@@ -197,7 +179,7 @@ npm run build
 
 </div>
 
----
+
 
 <div align="center">
 
