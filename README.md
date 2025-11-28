@@ -36,7 +36,8 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="500">
+
 
 
 </div>
@@ -177,18 +178,14 @@ npm run build
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-
 ### **🚀 DHANA BALAN K**
+
 *Full Stack Developer & Animation Enthusiast*
 
 🎯  Specialization :  Frontend Magic & GSAP Animations
-
-🏆  Achievement    : Portfolio 2.0 Master
-
-⚡  Focus          : Performance + User Experience
-
-🎮  Innovation     : Gaming-Inspired Web Interactions
+🏆  Achievement    :  Portfolio 2.0 Master
+⚡  Focus          :  Performance + User Experience
+🎮  Innovation     :  Gaming-Inspired Web Interactions
 
 ---
 
