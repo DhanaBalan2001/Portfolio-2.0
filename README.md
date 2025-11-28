@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400">
 
 </div>
 
