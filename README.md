@@ -1,19 +1,17 @@
 <div align="center">
 
-# 🌟 **PORTFOLIO 2.0** 🌟
+### 🌟 **PORTFOLIO 2.0** 🌟
+
 ### *Interactive Web Experience with GSAP Magic*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+Portfolio+2.0;Next-Gen+Web+Experience;Built+with+React+%26+GSAP;Cinematic+Animations;Interactive+UI+Elements" alt="Typing SVG" />
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://mypersonalwebsite-dhanabalank.netlify.app/)
-[![GitHub](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhanaBalan2001)
-[![LinkedIn](https://img.shields.io/badge/👨💻_DEVELOPER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhana-balan-k)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
----
+
 
 ## 🎯 **WHAT MAKES THIS SPECIAL?**
 
@@ -21,114 +19,59 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### **🎬 CINEMATIC EXPERIENCE**
+
 *Hulu-inspired intro animations that captivate from first load*
 
-### **🎮 GAMING-INSPIRED INTERACTIONS** 
 *Magnetic buttons, particle explosions, and smooth transitions*
 
-### **📱 MOBILE-FIRST DESIGN**
 *Optimized animations for every device and screen size*
 
 </div>
 
----
 
-## 🛠️ **TECH STACK**
+
+## ⚡ **MODERN TECH STACK** ⚡
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4dd9-8c96-93a8a1ed8d21.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500">
 
-| Technology | Version | Purpose |
-|------------|---------|---------|
-| **React** | 18.2.0 | Component Architecture |
-| **GSAP** | 3.12.2 | Professional Animations |
-| **JavaScript** | ES6+ | Interactive Logic |
-| **CSS3** | Modern | Responsive Styling |
+
+
 
 </div>
 
----
-
-## ⚡ **PERFORMANCE METRICS**
-
 <div align="center">
-
-## 🛠️ **TECHNOLOGY STACK**
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-
-### ⚡ **MODERN TECH STACK** ⚡
 
 <table>
 <tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br><b>React 18.2.0</b><br><sub>⚛️ React Components</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" /><br><b>GSAP 3.12.2</b><br><sub>🎬 Animation Engine</sub></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br><b>JavaScript ES6+</b><br><sub>🧠 Modern JavaScript</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" /><br><b>Bootstrap 5.3.8</b><br><sub>🎨 Responsive CSS</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="65" height="65" /><br><b>React 18.2.0</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="65" height="65" /><br><b>JavaScript ES6+</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="65" height="65" /><br><b>CSS3 Grid</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="65" height="65" /><br><b>HTML5</b><br></td>
 </tr>
 <tr>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65" /><br><b>React Router</b><br><sub>🛣️ SPA Navigation</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f794.gif" width="65" height="65" /><br><b>React Icons</b><br><sub>🎯 Icon Library</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" /><br><b>CSS3 Grid</b><br><sub>🌐 Grid System</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="65" height="65" /><br><b>HTML5</b><br><sub>🏗️ Semantic HTML</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" /><br><b>Node.js</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" /><br><b>MongoDB</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="65" height="65" /><br><b>Express.js</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" /><br><b>Bootstrap 5</b><br></td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 🎨 **ANIMATION SHOWCASE**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-
-### **🎪 SIGNATURE ANIMATIONS**
-
-```javascript
-// 🎬 Cinematic Hero Entrance
-gsap.timeline()
-  .fromTo('.hero-title', 
-    { y: 100, opacity: 0 },
-    { y: 0, opacity: 1, duration: 1, stagger: 0.2 }
-  )
-  .fromTo('.hero-subtitle',
-    { y: 50, opacity: 0 },
-    { y: 0, opacity: 1, duration: 0.8 }
-  );
-
-// 🎯 Magnetic Button Effect
-element.addEventListener('mousemove', (e) => {
-  const x = (e.clientX - rect.left - rect.width / 2) * 0.3;
-  const y = (e.clientY - rect.top - rect.height / 2) * 0.3;
-  gsap.to(element, { x, y, duration: 0.3 });
-});
-
-// ✨ Particle Explosion System
-for (let i = 0; i < 12; i++) {
-  gsap.to(particle, {
-    x: (Math.random() - 0.5) * 100,
-    y: (Math.random() - 0.5) * 100,
-    opacity: 0,
-    duration: 0.8
-  });
-}
-```
 
 </div>
 
----
 
 ## 🚀 **FEATURES**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400">
+
+
 
 </div>
+
 
 ### **🎬 Cinematic Loading**
 - Hulu-inspired intro sequence
@@ -153,7 +96,9 @@ for (let i = 0; i < 12; i++) {
 - Code splitting
 - Lazy loading
 
----
+
+
+
 
 ## 🏗️ **PROJECT STRUCTURE**
 
@@ -175,7 +120,7 @@ modern-portfolio/
 └── 🎨 Animations/       # GSAP magic
 ```
 
----
+
 
 ## 🎯 **QUICK START**
 
@@ -199,11 +144,14 @@ npm start
 npm run build
 ```
 
----
+
 
 ## 🎪 **ANIMATION LAYERS**
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+
 
 | Layer | Effect | Performance |
 |-------|--------|-------------|
@@ -217,102 +165,26 @@ npm run build
 
 </div>
 
----
 
 ## 👨💻 **DEVELOPER**
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-
-</div>
 
 <div align="center">
 
-## 🏆 **QUANTUM REALITY SECTIONS**
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="400">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+### **🚀 DHANA BALAN K**
 
-</div>
+*Full Stack Developer(MERN)*
 
-### 🎯 **HERO QUANTUM EXPERIENCE**
-```javascript
-// 🌌 Neural Hero Interface
-const HeroReality = {
-  cinematicIntro: "GSAP quantum timeline with reality distortion",
-  quantumButtons: "Self-evolving CTAs with magnetic consciousness",
-  floatingElements: "Geometric particles responding to user energy",
-  neuralBackground: "AI-generated ambient reality shifts"
-};
-```
 
-### 💼 **PROJECT MULTIVERSE SHOWCASE**
-```javascript
-// 🚀 Portfolio Quantum Gallery
-const ProjectReality = {
-  holoCards: "4D interactive project displays with quantum hover",
-  techVisualization: "Neural network technology stack mapping",
-  livePortals: "Real-time demo access with quantum tunneling",
-  sourceConsciousness: "Code repositories with AI-powered insights"
-};
-```
-
-### 🏅 **ACHIEVEMENT QUANTUM GALLERY**
-```javascript
-// 🏆 Certification Reality Matrix
-const CertificationPortal = {
-  quantumViewer: "Holographic certificate display system",
-  achievementAI: "Neural achievement analysis and presentation",
-  pdfQuantum: "Quantum PDF integration with reality overlay",
-  credentialBlockchain: "Verified achievements on quantum ledger"
-};
-```
-
-### 📞 **COMMUNICATION NEXUS**
-```javascript
-// 🌐 Contact Quantum Hub
-const ContactReality = {
-  neuralForm: "AI-powered contact form with sentiment analysis",
-  socialQuantum: "Multi-dimensional social media integration",
-  networkingAI: "Professional connection recommendations",
-  realTimeChat: "Quantum communication with instant response"
-};
-```
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150">
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge)](https://mypersonalwebsite-dhanabalank.netlify.app/)
+[![GitHub](https://img.shields.io/badge/📂_GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/DhanaBalan2001)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhana-balan-k)
 
 </div>
 
----
 
-## 🔮 **FUTURE UPDATES**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284103-29e8e7c5-4c95-4c2d-8b4a-4e7c8b4b3e3a.gif" width="400">
-
-### **Version 3.0 Coming Soon**
-
-```javascript
-const futureFeatures = {
-  webgl: "3D animations with Three.js",
-  ai: "GPT-powered interactions",
-  vr: "WebXR compatibility",
-  sound: "Interactive audio design",
-  ml: "Behavioral predictions"
-};
-```
-
-</div>
-
----
 
 <div align="center">
 
@@ -321,8 +193,6 @@ const futureFeatures = {
 ## 🎉 **THANK YOU FOR VISITING!**
 
 ### *If this project inspired you, don't forget to ⭐ star it!*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 *Built with 💜 using React, GSAP, and endless creativity*
 
