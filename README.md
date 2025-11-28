@@ -36,7 +36,12 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212263322-8445f61a-adfe-4f95-9e98-3c47280d4a7f.gif" width="120" />
+  <img src="https://user-images.githubusercontent.com/74038190/212263333-bbd2dbf5-4d52-4b35-9f8f-ef09f13f41cd.gif" width="120" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120" />
+  <img src="https://user-images.githubusercontent.com/74038190/212263336-79b4688b-b4a3-4c8e-8bce-ad6610b2a6b4.gif" width="120" />
+</p>
 
 </div>
 
@@ -170,14 +175,6 @@ npm run build
 
 ## 👨💻 **DEVELOPER**
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-
-</div>
 
 <div align="center">
 
@@ -194,7 +191,7 @@ npm run build
 
 🎮  Innovation     : Gaming-Inspired Web Interactions
 
-```
+---
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge)](https://mypersonalwebsite-dhanabalank.netlify.app/)
 [![GitHub](https://img.shields.io/badge/📂_GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/DhanaBalan2001)
