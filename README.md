@@ -32,14 +32,6 @@
 
 ## ⚡ **MODERN TECH STACK** ⚡
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500">
-
-
-
-
-</div>
 
 <div align="center">
 
