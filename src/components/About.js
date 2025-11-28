@@ -146,7 +146,21 @@ const About = () => {
       <div style={containerStyle}>
         <div ref={imageRef} style={imageContainerStyle}>
           <div className="avatar-float" style={avatarStyle}>
-            👨
+            <div style={{
+              width: '60%',
+              height: '60%',
+              borderRadius: '50%',
+              background: 'rgba(255,255,255,0.2)',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              fontSize: 'clamp(40px, 8vw, 60px)',
+              fontWeight: 'bold',
+              color: 'white',
+              fontFamily: 'Arial, sans-serif'
+            }}>
+              DB
+            </div>
           </div>
         </div>
         

@@ -9,6 +9,7 @@ const Projects = () => {
   const [isAutoPlay, setIsAutoPlay] = useState(true);
   const [touchStart, setTouchStart] = useState(null);
   const [touchEnd, setTouchEnd] = useState(null);
+  const intervalRef = useRef(null);
   
   // Mobile detection
   const isMobile = window.innerWidth <= 768;
@@ -93,18 +94,27 @@ const Projects = () => {
   }, []);
 
   useEffect(() => {
-    if (!isAutoPlay || isLoading) return;
+    // Clear existing interval
+    if (intervalRef.current) {
+      clearInterval(intervalRef.current);
+      intervalRef.current = null;
+    }
     
-    const timeout = setTimeout(() => {
-      const interval = setInterval(() => {
+    // Start new interval if autoplay is enabled and not loading
+    if (isAutoPlay && !isLoading) {
+      intervalRef.current = setInterval(() => {
         setCurrentIndex((prev) => (prev + 1) % projects.length);
-      }, 2000);
-      
-      return () => clearInterval(interval);
-    }, 2000);
+      }, 3000);
+    }
     
-    return () => clearTimeout(timeout);
-  }, [isAutoPlay, projects.length, isLoading]);
+    // Cleanup function
+    return () => {
+      if (intervalRef.current) {
+        clearInterval(intervalRef.current);
+        intervalRef.current = null;
+      }
+    };
+  }, [isAutoPlay, isLoading, projects.length]);
 
   const nextProject = () => {
     setCurrentIndex((prev) => (prev + 1) % projects.length);
