@@ -36,41 +36,26 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4dd9-8c96-93a8a1ed8d21.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-
-| Technology | Version | Purpose |
-|------------|---------|---------|
-| **React** | 18.2.0 | Component Architecture |
-| **GSAP** | 3.12.2 | Professional Animations |
-| **JavaScript** | ES6+ | Interactive Logic |
-| **CSS3** | Modern | Responsive Styling |
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 
 </div>
 
----
-
-## ⚡ **PERFORMANCE METRICS**
+### ⚡ **MODERN TECH STACK** ⚡
 
 <div align="center">
 
-## 🛠️ **TECHNOLOGY STACK**
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-
-### ⚡ **MODERN TECH STACK** ⚡
-
 <table>
 <tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br><b>React 18.2.0</b><br><sub>⚛️ React Components</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" /><br><b>GSAP 3.12.2</b><br><sub>🎬 Animation Engine</sub></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br><b>JavaScript ES6+</b><br><sub>🧠 Modern JavaScript</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" /><br><b>Bootstrap 5.3.8</b><br><sub>🎨 Responsive CSS</sub></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" /><br><b>React 18.2.0</b><br></td>
+<td align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" width="65" height="65" /><br><b>GSAP 3.12.2</b><br></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br><b>JavaScript ES6+</b><br></td>
+<td align="center"><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="65" height="65" /><br><b>Bootstrap 5.3.8</b><br></td>
 </tr>
 <tr>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65" /><br><b>React Router</b><br><sub>🛣️ SPA Navigation</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f794.gif" width="65" height="65" /><br><b>React Icons</b><br><sub>🎯 Icon Library</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" /><br><b>CSS3 Grid</b><br><sub>🌐 Grid System</sub></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="65" height="65" /><br><b>HTML5</b><br><sub>🏗️ Semantic HTML</sub></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/112836?s=200&v=4" width="65" height="65" /><br><b>React Router</b><br></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" /><br><b>React Icons</b><br></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" /><br><b>CSS3 Grid</b><br></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="65" height="65" /><br><b>HTML5</b><br></td>
 </tr>
 </table>
 
@@ -187,12 +172,20 @@ npm run build
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+
+</div>
+
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
 
 ### **🚀 DHANA BALAN K**
 *Full Stack Developer & Animation Enthusiast*
 
-```
 🎯  Specialization :  Frontend Magic & GSAP Animations
 
 🏆  Achievement    : Portfolio 2.0 Master
