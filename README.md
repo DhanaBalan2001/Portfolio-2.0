@@ -53,27 +53,26 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhanaBalan2001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FF6B6B&text_color=FFFFFF" width="400">
+## 🛠️ **TECHNOLOGY STACK**
 
-```
-🚀 Lighthouse Score: 98/100
-<<<<<<< HEAD
-⚡ First Paint: 0.8s
-🎨 Animation FPS: 60fps
-📱 Mobile Optimized: ✅
-🔥 Bundle Size: <2MB
-=======
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 
-⚡ First Paint: 0.8s
+### ⚡ **MODERN TECH STACK** ⚡
 
-🎨 Animation FPS: 60fps
-
-📱 Mobile Optimized: ✅
-
-🔥 Bundle Size: <2MB
-
->>>>>>> 8939b09c4a8d7b9444f76c34bf9223b56b3ce388
-```
+<table>
+<tr>
+<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br><b>React 18.2.0</b><br><sub>⚛️ React Components</sub></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" /><br><b>GSAP 3.12.2</b><br><sub>🎬 Animation Engine</sub></td>
+<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br><b>JavaScript ES6+</b><br><sub>🧠 Modern JavaScript</sub></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" /><br><b>Bootstrap 5.3.8</b><br><sub>🎨 Responsive CSS</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65" /><br><b>React Router</b><br><sub>🛣️ SPA Navigation</sub></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f794.gif" width="65" height="65" /><br><b>React Icons</b><br><sub>🎯 Icon Library</sub></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" /><br><b>CSS3 Grid</b><br><sub>🌐 Grid System</sub></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="65" height="65" /><br><b>HTML5</b><br><sub>🏗️ Semantic HTML</sub></td>
+</tr>
+</table>
 
 </div>
 
