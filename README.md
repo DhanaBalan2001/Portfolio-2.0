@@ -36,12 +36,7 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212263322-8445f61a-adfe-4f95-9e98-3c47280d4a7f.gif" width="120" />
-  <img src="https://user-images.githubusercontent.com/74038190/212263333-bbd2dbf5-4d52-4b35-9f8f-ef09f13f41cd.gif" width="120" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120" />
-  <img src="https://user-images.githubusercontent.com/74038190/212263336-79b4688b-b4a3-4c8e-8bce-ad6610b2a6b4.gif" width="120" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 
 </div>
 
@@ -51,18 +46,19 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" /><br><b>React 18.2.0</b><br></td>
-<td align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" width="65" height="65" /><br><b>GSAP 3.12.2</b><br></td>
-<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br><b>JavaScript ES6+</b><br></td>
-<td align="center"><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="65" height="65" /><br><b>Bootstrap 5.3.8</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="65" height="65" /><br><b>React 18.2.0</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="65" height="65" /><br><b>JavaScript ES6+</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="65" height="65" /><br><b>CSS3 Grid</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="65" height="65" /><br><b>HTML5</b><br></td>
 </tr>
 <tr>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/112836?s=200&v=4" width="65" height="65" /><br><b>React Router</b><br></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" /><br><b>React Icons</b><br></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" /><br><b>CSS3 Grid</b><br></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="65" height="65" /><br><b>HTML5</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" /><br><b>Node.js</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" /><br><b>MongoDB</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="65" height="65" /><br><b>Express.js</b><br></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" /><br><b>Bootstrap 5</b><br></td>
 </tr>
 </table>
+
 
 </div>
 
