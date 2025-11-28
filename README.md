@@ -1,13 +1,11 @@
 <div align="center">
 
-# 🌟 **PORTFOLIO 2.0** 🌟
+### 🌟 **PORTFOLIO 2.0** 🌟
+
 ### *Interactive Web Experience with GSAP Magic*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+Portfolio+2.0;Next-Gen+Web+Experience;Built+with+React+%26+GSAP;Cinematic+Animations;Interactive+UI+Elements" alt="Typing SVG" />
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://mypersonalwebsite-dhanabalank.netlify.app/)
-[![GitHub](https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhanaBalan2001)
-[![LinkedIn](https://img.shields.io/badge/👨💻_DEVELOPER-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhana-balan-k)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -32,17 +30,13 @@
 
 ---
 
-## 🛠️ **TECH STACK**
+### ⚡ **MODERN TECH STACK** ⚡
 
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500">
 
-
-
 </div>
-
-### ⚡ **MODERN TECH STACK** ⚡
 
 <div align="center">
 
@@ -73,7 +67,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 </div>
 
----
 
 ## 🚀 **FEATURES**
 
@@ -81,7 +74,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
-</div>
+
 
 ### **🎬 Cinematic Loading**
 - Hulu-inspired intro sequence
@@ -106,7 +99,9 @@
 - Code splitting
 - Lazy loading
 
----
+</div>
+
+
 
 ## 🏗️ **PROJECT STRUCTURE**
 
