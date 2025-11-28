@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400">
 
 </div>
 
@@ -188,8 +188,6 @@ npm run build
 ## 🎉 **THANK YOU FOR VISITING!**
 
 ### *If this project inspired you, don't forget to ⭐ star it!*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 *Built with 💜 using React, GSAP, and endless creativity*
 
