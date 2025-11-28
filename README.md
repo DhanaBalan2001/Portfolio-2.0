@@ -13,7 +13,7 @@
 
 
 
-### 🎯 **WHAT MAKES THIS SPECIAL?**
+## 🎯 **WHAT MAKES THIS SPECIAL?**
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 
 
-### ⚡ **MODERN TECH STACK** ⚡
+## ⚡ **MODERN TECH STACK** ⚡
 
 <div align="center">
 
@@ -141,7 +141,7 @@ npm run build
 
 
 
-### 🎪 **ANIMATION LAYERS**
+## 🎪 **ANIMATION LAYERS**
 
 <div align="center">
 
@@ -161,7 +161,7 @@ npm run build
 </div>
 
 
-### 👨💻 **DEVELOPER**
+## 👨💻 **DEVELOPER**
 
 
 <div align="center">
@@ -170,7 +170,7 @@ npm run build
 
 ### **🚀 DHANA BALAN K**
 
-*Full Stack Developer & Animation Enthusiast*
+*Full Stack Developer(MERN)*
 
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge)](https://mypersonalwebsite-dhanabalank.netlify.app/)
